@@ -35,6 +35,7 @@ export interface SparePart {
   sellerId: string;
   sellerEmail: string;
   sold?: boolean;
+  isDemo?: boolean;
   createdAt: number;
 }
 

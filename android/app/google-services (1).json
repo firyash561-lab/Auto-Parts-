@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "751764116522-bc6tkv67hma93gbms16n9m2p1pi5c9rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autoparts.app",
+            "certificate_hash": "38d90fe09083c270207cd0050a756d1a3828328e"
+          }
+        },
+        {
           "client_id": "751764116522-gr59kobj3c3i1hsgr5hiumauk5otr5sq.apps.googleusercontent.com",
           "client_type": 3
         }
